@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/davina2/static/css/main.75f3086e.css",
+    "main.js": "/davina2/static/js/main.8182347e.js",
+    "static/js/787.7f525f80.chunk.js": "/davina2/static/js/787.7f525f80.chunk.js",
+    "static/media/nails.jpg": "/davina2/static/media/nails.e9545d9c140be98c39d7.jpg",
+    "static/media/wax.jpg": "/davina2/static/media/wax.2d9b967da2fa74f41ec6.jpg",
+    "static/media/PriceList.jpg": "/davina2/static/media/PriceList.39e6062cc7b592c78c31.jpg",
+    "static/media/brazil.jpg": "/davina2/static/media/brazil.e48d773bb72283e1fb45.jpg",
+    "static/media/massage.jpg": "/davina2/static/media/massage.39ac6867f0a10fbc0a81.jpg",
+    "static/media/Spa.jpg": "/davina2/static/media/Spa.138dbeda67f4954f99b5.jpg",
+    "static/media/eyebrow.jpg": "/davina2/static/media/eyebrow.db00785273f02f39a952.jpg",
+    "static/media/D.jpeg": "/davina2/static/media/D.9ce61f832487bb6d5224.jpeg",
+    "index.html": "/davina2/index.html",
+    "main.75f3086e.css.map": "/davina2/static/css/main.75f3086e.css.map",
+    "main.8182347e.js.map": "/davina2/static/js/main.8182347e.js.map",
+    "787.7f525f80.chunk.js.map": "/davina2/static/js/787.7f525f80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f3086e.css",
+    "static/js/main.8182347e.js"
+  ]
+}

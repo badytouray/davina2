@@ -11,15 +11,15 @@ function Testimonial() {
 <div
   id="carouselMultiItemExample"
   class="carousel slide carousel-dark text-center"
-  data-mdb-ride="carousel slide"
+  data-bs-ride="carousel slide"
 >
   {/* <!-- Controls --> */}
   <div class="d-flex justify-content-center mb-4">
     <button
       class="carousel-control-prev position-relative"
       type="button"
-      data-mdb-target="#carouselMultiItemExample"
-      data-mdb-slide="prev"
+      data-s-target="#carouselMultiItemExample"
+      data-bs-slide="prev"
     >
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Previous</span>
@@ -27,8 +27,8 @@ function Testimonial() {
     <button
       class="carousel-control-next position-relative"
       type="button"
-      data-mdb-target="#carouselMultiItemExample"
-      data-mdb-slide="next"
+      data-bs-target="#carouselMultiItemExample"
+      data-bs-slide="next"
     >
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Next</span>
@@ -191,6 +191,7 @@ function Testimonial() {
         </div>
       </div>
     </div>
+    
 
     {/* <!-- Single item --> */}
     <div class="carousel-item">

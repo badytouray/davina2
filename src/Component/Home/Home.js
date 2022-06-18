@@ -1,5 +1,6 @@
 import React from 'react'
 import FeaturedSpecial from '../FeaturedSpecial/FeaturedSpecial'
+import Testimonials from '../Testimonials/Testimonial'
 import  Brazil from "../Images/brazil.jpg"
 
 function Home() {
@@ -49,9 +50,12 @@ function Home() {
     </div>
 
     
-<FeaturedSpecial />
+
 
   </div>
+  <FeaturedSpecial />
+  <br />
+  <Testimonials />
     </>
   )
 }

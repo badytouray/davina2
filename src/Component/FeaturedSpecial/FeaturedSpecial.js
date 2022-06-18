@@ -74,37 +74,7 @@ function FeaturedSpecial() {
       </div>
     </div>
 
-    <div class="card">
-      <img src={massage} class="card-img-top" alt="..." />
-      <div class="card-body">
-        <h5 class="card-title">Eyebrow Tint</h5>
-        <h6>Price: £15 </h6>
-        <small class="text-muted">Duration: 30mins</small>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <br />
-        <a href="/contact-us">
-        <div class="d-grid gap-2">
-        <button class="btn btn-primary" type="button">Book Now</button>
-      </div>
-        </a>
-      </div>
-    </div>
-
-    <div class="card">
-      <img src={massage} class="card-img-top" alt="..." />
-      <div class="card-body">
-        <h5 class="card-title">Eyebrow Wax</h5>
-        <h6>Price: £10 (Inca removal)</h6>
-        <small class="text-muted">Duration: 30mins</small>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <br />
-        <a href="/contact-us">
-        <div class="d-grid gap-2">
-        <button class="btn btn-primary" type="button">Book Now</button>
-      </div>
-        </a>
-      </div>
-    </div>
+  
 
 
 

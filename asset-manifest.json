@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/davina2/static/css/main.75f3086e.css",
-    "main.js": "/davina2/static/js/main.a7c513ff.js",
+    "main.css": "/davina2/static/css/main.7d94cd39.css",
+    "main.js": "/davina2/static/js/main.d701ad29.js",
     "static/js/787.959b637e.chunk.js": "/davina2/static/js/787.959b637e.chunk.js",
     "static/media/nails.jpg": "/davina2/static/media/nails.e9545d9c140be98c39d7.jpg",
     "static/media/wax.jpg": "/davina2/static/media/wax.2d9b967da2fa74f41ec6.jpg",
@@ -12,12 +12,12 @@
     "static/media/eyebrow.jpg": "/davina2/static/media/eyebrow.db00785273f02f39a952.jpg",
     "static/media/D.jpeg": "/davina2/static/media/D.9ce61f832487bb6d5224.jpeg",
     "index.html": "/davina2/index.html",
-    "main.75f3086e.css.map": "/davina2/static/css/main.75f3086e.css.map",
-    "main.a7c513ff.js.map": "/davina2/static/js/main.a7c513ff.js.map",
+    "main.7d94cd39.css.map": "/davina2/static/css/main.7d94cd39.css.map",
+    "main.d701ad29.js.map": "/davina2/static/js/main.d701ad29.js.map",
     "787.959b637e.chunk.js.map": "/davina2/static/js/787.959b637e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75f3086e.css",
-    "static/js/main.a7c513ff.js"
+    "static/css/main.7d94cd39.css",
+    "static/js/main.d701ad29.js"
   ]
 }

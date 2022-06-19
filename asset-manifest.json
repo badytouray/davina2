@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/davina2/static/css/main.7d94cd39.css",
-    "main.js": "/davina2/static/js/main.d701ad29.js",
-    "static/js/787.959b637e.chunk.js": "/davina2/static/js/787.959b637e.chunk.js",
-    "static/media/nails.jpg": "/davina2/static/media/nails.e9545d9c140be98c39d7.jpg",
-    "static/media/wax.jpg": "/davina2/static/media/wax.2d9b967da2fa74f41ec6.jpg",
-    "static/media/PriceList.jpg": "/davina2/static/media/PriceList.39e6062cc7b592c78c31.jpg",
-    "static/media/brazil.jpg": "/davina2/static/media/brazil.e48d773bb72283e1fb45.jpg",
-    "static/media/massage.jpg": "/davina2/static/media/massage.39ac6867f0a10fbc0a81.jpg",
-    "static/media/Spa.jpg": "/davina2/static/media/Spa.138dbeda67f4954f99b5.jpg",
-    "static/media/eyebrow.jpg": "/davina2/static/media/eyebrow.db00785273f02f39a952.jpg",
-    "static/media/D.jpeg": "/davina2/static/media/D.9ce61f832487bb6d5224.jpeg",
-    "index.html": "/davina2/index.html",
-    "main.7d94cd39.css.map": "/davina2/static/css/main.7d94cd39.css.map",
-    "main.d701ad29.js.map": "/davina2/static/js/main.d701ad29.js.map",
-    "787.959b637e.chunk.js.map": "/davina2/static/js/787.959b637e.chunk.js.map"
+    "main.css": "/badytouray/public/static/css/main.7d94cd39.css",
+    "main.js": "/badytouray/public/static/js/main.b5026034.js",
+    "static/js/787.959b637e.chunk.js": "/badytouray/public/static/js/787.959b637e.chunk.js",
+    "static/media/nails.jpg": "/badytouray/public/static/media/nails.e9545d9c140be98c39d7.jpg",
+    "static/media/wax.jpg": "/badytouray/public/static/media/wax.2d9b967da2fa74f41ec6.jpg",
+    "static/media/PriceList.jpg": "/badytouray/public/static/media/PriceList.39e6062cc7b592c78c31.jpg",
+    "static/media/brazil.jpg": "/badytouray/public/static/media/brazil.e48d773bb72283e1fb45.jpg",
+    "static/media/massage.jpg": "/badytouray/public/static/media/massage.39ac6867f0a10fbc0a81.jpg",
+    "static/media/Spa.jpg": "/badytouray/public/static/media/Spa.138dbeda67f4954f99b5.jpg",
+    "static/media/eyebrow.jpg": "/badytouray/public/static/media/eyebrow.db00785273f02f39a952.jpg",
+    "static/media/D.jpeg": "/badytouray/public/static/media/D.9ce61f832487bb6d5224.jpeg",
+    "index.html": "/badytouray/public/index.html",
+    "main.7d94cd39.css.map": "/badytouray/public/static/css/main.7d94cd39.css.map",
+    "main.b5026034.js.map": "/badytouray/public/static/js/main.b5026034.js.map",
+    "787.959b637e.chunk.js.map": "/badytouray/public/static/js/787.959b637e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d94cd39.css",
-    "static/js/main.d701ad29.js"
+    "static/js/main.b5026034.js"
   ]
 }
